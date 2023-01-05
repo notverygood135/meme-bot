@@ -1,0 +1,18 @@
+{
+  "files": {
+    "cogs/game.py": [
+      {
+        "id": "e6fee9b6-210d-4b41-8f7f-9761dcb90ee2",
+        "line": 1,
+        "version": 11317,
+        "index": 0
+      },
+      {
+        "id": "cff67ee5-5250-406e-96e9-3ede417add8c",
+        "line": 17,
+        "version": 11317,
+        "index": 291
+      }
+    ]
+  }
+}
